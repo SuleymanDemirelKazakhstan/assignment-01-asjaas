@@ -1,1 +1,3 @@
-# DUMMY TEXT
+# INFORMATION
+#### Aslan Zhamalov
+##### ID:190103226
